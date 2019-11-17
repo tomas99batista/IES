@@ -2,7 +2,7 @@
 
 > The basic idea of Servlet container is using Java to dynamically generate the web page on the server side. So servlet container is essentially a part of a web server that interacts with the servlets. Servlet container is the container for Servlets.
 
-## Web applications in Java can be deployed to stand-alone applications servers or embedded servers. Elaborate on when to choose one over the other.
+## Web applications in Java can be deployed to stand-alone applications servers or embedded servers. Elaborate on when to choose one over the other
 
 > A standalone server is a server that runs alone and is not a part of a group. This is, it's not part of the code, it's apart from the program software.
 
